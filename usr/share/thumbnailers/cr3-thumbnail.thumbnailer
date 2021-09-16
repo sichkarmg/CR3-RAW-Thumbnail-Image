@@ -1,0 +1,4 @@
+[Thumbnailer Entry]
+TryExec=/usr/local/bin/cr3-thumbnail.sh
+Exec=/usr/local/bin/cr3-thumbnail.sh %s %u %o
+MimeType=application/x-extension-CR3;application/octet-stream;
