@@ -3,6 +3,8 @@ Thumbnails for CANON RAW images in Gnome Files (Caja/Nautilus)
 
 Tested on Linux Mint 20, Ununtu 20.04, Ubuntu 16.04
 
+![alt text](https://github.com/sichkarmg/CR3-RAW-Thumbnail-Image/blob/main/cr3.png)
+
 ## install
 ``apt install libimage-exiftool-perl # need 11+ version``
 
